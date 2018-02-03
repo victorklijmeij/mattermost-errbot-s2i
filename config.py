@@ -46,7 +46,7 @@ BACKEND = os.environ.get('BACKEND', 'Mattermost')
 
 # The location where all of Err's data should be stored. Make sure to set
 # this to a directory that is writable by the user running the bot.
-BOT_DATA_DIR = '/srv/data'
+BOT_DATA_DIR = '/tmp/data'
 
 # Set this to a directory on your system where you want to load extra
 # plugins from, which is useful mostly if you want to develop a plugin
