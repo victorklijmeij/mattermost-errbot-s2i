@@ -1,4 +1,4 @@
 mattermostdriver
 websockets == 3.2
 errbot
-https://github.com/Vaelor/errbot-mattermost-backend.git
+https://github.com/Vaelor/errbot-mattermost-backend/archive/2.0.2.zip
