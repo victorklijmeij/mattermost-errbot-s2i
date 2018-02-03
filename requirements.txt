@@ -1,0 +1,3 @@
+mattermostdriver
+websockets == 3.2
+errbot
