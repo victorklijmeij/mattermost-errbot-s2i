@@ -42,7 +42,7 @@ import logging
 # 'IRC'      - for classic IRC or bridged services like https://gitter.im
 # 'XMPP'
 
-BACKEND = os.environ.get('BACKEND', 'XMPP')
+BACKEND = os.environ.get('BACKEND', 'Mattermost')
 
 # The location where all of Err's data should be stored. Make sure to set
 # this to a directory that is writable by the user running the bot.
