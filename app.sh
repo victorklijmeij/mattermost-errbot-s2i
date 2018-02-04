@@ -1,2 +1,2 @@
 errbot --init
-errbot
+errbot -c config.py
